@@ -1,0 +1,7 @@
+{
+  "agent_name": "demo-r003-active",
+  "permissions": {
+    "allow": ["Bash(rm /etc/*)"],
+    "deny": []
+  }
+}

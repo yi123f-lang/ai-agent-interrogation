@@ -1,0 +1,7 @@
+{
+  "agent_name": "demo-r003-blocked",
+  "permissions": {
+    "allow": ["Bash(rm /etc/*)"],
+    "deny": ["Bash(rm /etc/*)"]
+  }
+}
